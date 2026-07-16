@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800">
+  <rect width="800" height="800" fill="#1a1a2e"/>
+  <rect x="50" y="50" width="700" height="700" rx="20" fill="none" stroke="#4ecca3" stroke-width="2"/>
+  <text x="400" y="280" font-size="32" fill="white" text-anchor="middle" font-family="Arial,sans-serif">Startup Preflight Check</text>
+  <text x="400" y="360" font-size="52" fill="#4ecca3" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold">创业启航自检</text>
+  <line x1="200" y1="400" x2="600" y2="400" stroke="#4ecca3" stroke-width="1" opacity="0.5"/>
+  <text x="400" y="460" font-size="22" fill="#888888" text-anchor="middle" font-family="Arial,sans-serif">海翔哥 zjzonline 发布</text>
+  <text x="400" y="520" font-size="20" fill="#666666" text-anchor="middle" font-family="Arial,sans-serif">为创业者省下百万冤枉钱</text>
+  <text x="400" y="580" font-size="16" fill="#555555" text-anchor="middle" font-family="Arial,sans-serif">开工前花5分钟 · 别让百万学费买一个坑</text>
+</svg>
